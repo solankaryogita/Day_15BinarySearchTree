@@ -73,6 +73,7 @@ public class MyBinaryTree<K extends Comparable<K>> {
 		return "MyBinaryTree [root=" + root + ", getSize()=" + getSize() + ", hashCode()=" + hashCode()
 				+ ", toString()=" + super.toString() + "]";
 	}
+
 }
 
 
